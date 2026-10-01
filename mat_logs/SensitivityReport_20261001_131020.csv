@@ -1,0 +1,4 @@
+Channel,Weight (g),Base L (mm),Base B (mm),Area (cm2),Pressure (g/cm2),Pressure (kPa),No Load Avg,Loaded Avg,Difference,Sensitivity (units/g),Sensitivity (units/(g/cm2)),Sensitivity (units/kPa)
+0,500,36.0,26.0,9.36,53.42,5.24,0.0,46082.2,46082.2,92.164,862.66,8796.7
+10,500,36.0,26.0,9.36,53.42,5.24,20078.9,16349.4,-3729.5,-7.459,-69.82,-711.9
+16,500,36.0,26.0,9.36,53.42,5.24,0.0,0.0,0.0,0.000,0.00,0.0
